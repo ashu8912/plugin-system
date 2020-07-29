@@ -1,0 +1,9 @@
+{
+    "plugins":[
+        {
+            
+                "path": "./plugins/react.js",
+                "name": "traceloop"
+        }
+    ]
+}
